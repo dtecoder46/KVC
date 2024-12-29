@@ -19,7 +19,7 @@ After C++ receives color input, it writes Vue syntax
 with the input color into the Vue file, and then uses
 the input to write CSS syntax that makes the web-
 site background take on the same color as the input.
-The input is stored into a custom C++ database,
+The input is stored into a custom database,
 completing the first run
 ### 3.2 Second Run
 On the second run, C++ extracts the previous data
