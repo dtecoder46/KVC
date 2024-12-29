@@ -32,8 +32,8 @@ loss.
 ### 3.3 Third Run
 Now on the third run, when C++ extracts the data
 from the KVDB file, both previous colors will be
-present in the markup. The amount of data will con-
-tinue growing each time the C++ file is ran.
+present in the markup. The amount of data will continue 
+growing each time the C++ file is ran.
 
 ## 4 Code of Conduct
 Any user who forks this repository must abide by the
