@@ -10,9 +10,8 @@ Branches: 1
 ## 2 How to Access
 Find the KVC-SSR repository on GitHub. Navigate
 to the link provided on the right-hand side. Then
-type in the command: ./script.sh. Answer the fa-
-vorite color prompt and press ENTER. The website
-should appear with the background color being your
+type in the command: ./script.sh. Answer the favorite color prompt 
+and press ENTER. The website should appear with the background color being your
 favorite color! It will also show previous color inputs,
 if applicable.
 ## 3 Structure
